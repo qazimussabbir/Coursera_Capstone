@@ -1,0 +1,39 @@
+,mean,std_dev,obs,missing,missing_perc,min,max,unique,q5,q10,q25,q50,q75,q85,q95,q99
+SEVERITYCODE,1.2989012343776487,0.4577776348166306,194673,0,0.0,1.0,2.0,2,1.0,1.0,1.0,1.0,2.0,2.0,2.0,2.0
+X,-122.33051843904114,0.02997605240666562,194673,5334,0.02739979349986901,-122.41909109999999,-122.2389494,23564,-122.382899,-122.37419369999999,-122.3486733,-122.3302243,-122.3119374,-122.2989173,-122.2798291,-122.2651142
+Y,47.619542517688615,0.05615663741066883,194673,5334,0.02739979349986901,47.49557292,47.73414158,23840,47.52704457,47.54264794,47.57595611,47.61536892,47.66366435,47.685466617,47.715018371,47.73306346
+OBJECTID,108479.3649299081,62649.72255825467,194673,0,0.0,1.0,219547.0,194673,12238.6,23695.4,54267.0,106912.0,162272.0,184598.19999999998,208009.4,217258.28
+INCKEY,141091.45634987904,86634.40273691085,194673,0,0.0,1001.0,331454.0,194673,28830.600000000002,39749.2,70383.0,123363.0,203319.0,242004.19999999998,317465.4,328483.28
+COLDETKEY,141298.81138113656,86986.5421095643,194673,0,0.0,1001.0,332954.0,194673,28830.600000000002,39749.2,70383.0,123363.0,203459.0,242444.19999999998,318965.4,329983.28
+INTKEY,37558.45057630244,51745.990273062445,194673,129603,0.6657471760336564,23807.0,757580.0,7615,24509.0,25483.800000000003,28667.0,29973.0,33973.0,35828.0,37438.0,351236.6099999999
+SEVERITYCODE.1,1.2989012343776487,0.4577776348166306,194673,0,0.0,1.0,2.0,2,1.0,1.0,1.0,1.0,2.0,2.0,2.0,2.0
+PERSONCOUNT,2.444427321713848,1.345928745998139,194673,0,0.0,0.0,81.0,47,1.0,2.0,2.0,2.0,3.0,3.0,5.0,7.0
+PEDCOUNT,0.037139202662927064,0.19814992974342102,194673,0,0.0,0.0,6.0,7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+PEDCYLCOUNT,0.02839119960138283,0.16741281254995333,194673,0,0.0,0.0,2.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+VEHCOUNT,1.9207799746241132,0.6310466881151411,194673,0,0.0,0.0,12.0,13,1.0,1.0,2.0,2.0,2.0,2.0,3.0,4.0
+SDOT_COLCODE,13.867768000698607,6.8687546197001135,194673,0,0.0,0.0,69.0,39,0.0,11.0,11.0,13.0,14.0,16.0,28.0,48.0
+SDOTCOLNUM,7972521.3371441495,2553533.45168784,194673,79737,0.4095945508622151,1007024.0,13072024.0,114933,4169040.75,4340012.5,6040014.75,8023022.5,10155010.25,11179758.5,12224003.25,13028005.649999999
+ST_COLCODE,22.857821878178207,14.515984745818503,194673,4904,0.025190961252972936,0.0,88.0,63,10.0,10.0,11.0,16.0,32.0,32.0,50.0,71.0
+SEGLANEKEY,269.40111366239796,3315.776054903331,194673,0,0.0,0.0,525241.0,1955,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10096.0
+CROSSWALKKEY,9782.451978445906,72269.25669024329,194673,0,0.0,0.0,5239700.0,2198,0.0,0.0,0.0,0.0,0.0,0.0,0.0,523137.0
+REPORTNO,Not Applicable,Not Applicable,194673,0,0.0,Not Applicable,Not Applicable,194670,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+STATUS,Not Applicable,Not Applicable,194673,0,0.0,Not Applicable,Not Applicable,2,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+ADDRTYPE,Not Applicable,Not Applicable,194673,1926,0.009893513738422894,Not Applicable,Not Applicable,4,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+LOCATION,Not Applicable,Not Applicable,194673,2677,0.013751264941722786,Not Applicable,Not Applicable,24103,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+EXCEPTRSNCODE,Not Applicable,Not Applicable,194673,189035,0.9710386134697673,Not Applicable,Not Applicable,2,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+EXCEPTRSNDESC,Not Applicable,Not Applicable,194673,189035,0.9710386134697673,Not Applicable,Not Applicable,2,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+SEVERITYDESC,Not Applicable,Not Applicable,194673,0,0.0,Not Applicable,Not Applicable,2,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+COLLISIONTYPE,Not Applicable,Not Applicable,194673,4904,0.025190961252972936,Not Applicable,Not Applicable,11,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+INCDATE,Not Applicable,Not Applicable,194673,0,0.0,Not Applicable,Not Applicable,5985,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+INCDTTM,Not Applicable,Not Applicable,194673,0,0.0,Not Applicable,Not Applicable,162058,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+JUNCTIONTYPE,Not Applicable,Not Applicable,194673,6329,0.03251092858280296,Not Applicable,Not Applicable,8,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+SDOT_COLDESC,Not Applicable,Not Applicable,194673,0,0.0,Not Applicable,Not Applicable,39,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+INATTENTIONIND,Not Applicable,Not Applicable,194673,164868,0.8468971043750289,Not Applicable,Not Applicable,2,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+UNDERINFL,Not Applicable,Not Applicable,194673,4884,0.025088224869396374,Not Applicable,Not Applicable,5,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WEATHER,Not Applicable,Not Applicable,194673,5081,0.026100178247625505,Not Applicable,Not Applicable,12,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+ROADCOND,Not Applicable,Not Applicable,194673,5012,0.025745737724286368,Not Applicable,Not Applicable,10,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+LIGHTCOND,Not Applicable,Not Applicable,194673,5170,0.026557355154541204,Not Applicable,Not Applicable,10,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+PEDROWNOTGRNT,Not Applicable,Not Applicable,194673,190006,0.9760264648924093,Not Applicable,Not Applicable,2,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+SPEEDING,Not Applicable,Not Applicable,194673,185340,0.9520580666039975,Not Applicable,Not Applicable,2,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+ST_COLDESC,Not Applicable,Not Applicable,194673,4904,0.025190961252972936,Not Applicable,Not Applicable,63,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+HITPARKEDCAR,Not Applicable,Not Applicable,194673,0,0.0,Not Applicable,Not Applicable,2,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
